@@ -2,7 +2,7 @@
 
 Este é um desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) recriado com HTML e CSS puros, com foco em layout responsivo e boas práticas de código.
 
-![Preview do projeto](./img/preview.png)
+![Preview do projeto](./page/img/preview.png.jpeg)
 
 ---
 
@@ -38,7 +38,7 @@ O layout se adapta perfeitamente a telas pequenas:
 ## 📸 Resultado
 
 Você pode visualizar o projeto publicado aqui:  
-🔗 [**Link no Vercel**](https://seuprojeto.vercel.app)  
+🔗 [**Link no Vercel**](https://product-preview-nine-sandy.vercel.app)  
 🔗 [**Desafio original no Frontend Mentor**](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 ---
