@@ -1,10 +1,10 @@
 @media (max-width: 780px) {
     .product-preview {
-        margin: 20px auto;
+        margin: 0 auto;
         display: grid;
         grid-template-columns: 1fr;
         padding: 10px;
-        width: 100%;
+        width: auto;
         box-shadow: none;
         border-radius: 0;
 
@@ -19,9 +19,10 @@
         width: 100%;
         height: auto;
         object-fit: cover;
+        border-radius: 5px;
     }
     .info-container {
-        padding: 10px;
+        padding: 10px auto;
         text-align: center;
         width: 100%;
         box-sizing: border-box;
